@@ -1,5 +1,7 @@
 {
   "name": "ionic4-login-with-google",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1022784222942-ohmn1e09c15notmn7inocqpjf0n2ludd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1022784222942-ohmn1e09c15notmn7inocqpjf0n2ludd</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1022784222942-jjav56btbkv9hdq9o8p6isg83jh14lqp.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB1rQifl2Rf431v6k3V8F7K79pE-BAyYks</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1022784222942</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ionic.googlelogin</string>
+	<key>PROJECT_ID</key>
+	<string>ionic4--login</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ionic4--login.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1022784222942:ios:71093e34e2925b37d9744f</string>
+	<key>DATABASE_URL</key>
+	<string>https://ionic4-login-520d2.firebaseio.com</string>
+</dict>
+</plist>
